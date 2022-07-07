@@ -1,4 +1,4 @@
 # CursoIntegradorII
 Grupo Verde
-# Implementación de un sistema de gestión de ventas para la administración de una bodega 
-![image](https://user-images.githubusercontent.com/45674268/177697164-46a82a7c-22d8-40d6-abe5-c7f3222af609.png)
+# Implementación de un sistema de gestión de ventas para la administración de una bodega
+![image](https://user-images.githubusercontent.com/45674268/177701464-c01ca8ba-22c3-4bed-9225-af1bccc5623d.png)
